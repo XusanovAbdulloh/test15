@@ -1,0 +1,65 @@
+.card {
+  text-align: center;
+  border: 2px solid #666666; 
+  border-radius: 2px;
+  background-color:pink ;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  -ms-border-radius: 2px;
+  -o-border-radius: 2px ;
+}
+
+.heading {
+    color: #ffffff;
+}
+
+.text {
+    color: #ffffff;
+}
+
+.read more {
+    color: #333333;
+    background-color: blue;
+}
+.car {
+    text-align: center;
+    border: 2px solid #666666;
+    border-radius: 2px;
+    background-color: #f2e6e6;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+
+    
+}
+.tvitter {
+    color: #ffffff;
+}
+.lorem {
+    color: #ffffff ;
+}
+.read mor {
+    color: #333333;
+    background-color: blue;
+}
+.ca {
+   text-align: center; 
+   border: 2px solid #666666;
+   border-radius: 2px;
+   background-color: rgb(241, 189, 125);
+   -webkit-border-radius: 2px;
+   -moz-border-radius: 2px;
+   -ms-border-radius: 2px;
+   -o-border-radius: 2px;
+
+
+}
+.you {
+  color: #ffffff;
+    
+}
+.read {
+    color: #333333;
+    background-color: blue;
+}
